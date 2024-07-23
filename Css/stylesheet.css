@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: linear-gradient(to right, #E2BBE9, #9B86BD); 
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-optical-sizing: auto;
+}
+.input{
+    border-radius: 8px;
+    background: #5A639C;
+}
+button{
+    background-color: #9B86BD !important;
+}
+h1{
+    color:  #494057;
+    font-weight: 600;
+    font-size: xx-large;
+}
+.box{
+    border-radius: 4px;
+}
+.list{
+    align-items: flex-start;
+}
+.item{
+    background-color: #674f6b;
+    padding: 10px;
+    margin: 4px;
+    border-radius: 4px;
+    color: white;
+    cursor: move;
+
+}
